@@ -1,0 +1,20 @@
+# Ignore Maven build output
+target/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore Docker-related files
+docker-compose.yml
+Dockerfile
+
+# Workflow file
+.github/workflows/deploy.yml
+
+# Ignore log files
+*.log
+
+# Ignore other temporary files
+*.tmp
+*.swp
