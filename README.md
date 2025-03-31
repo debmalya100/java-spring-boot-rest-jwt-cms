@@ -1,7 +1,7 @@
-# ms-cms-java-apis
+# java-spring-boot-rest-jwt-cms
 
 ## Overview
-`ms-cms-java-apis` is a Java-based RESTful API project built using Spring Boot. It provides a content management system (CMS) with JWT-based authentication and authorization.
+`java-spring-boot-rest-jwt-cms` is a Java-based RESTful API project built using Spring Boot. It provides a content management system (CMS) with JWT-based authentication and authorization.
 
 ## Features
 - RESTful APIs for managing CMS resources.
@@ -18,5 +18,5 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/ms-cms-java-apis.git
-cd ms-cms-java-apis
+git clone https://github.com/your-username/java-spring-boot-rest-jwt-cms.git
+cd java-spring-boot-rest-jwt-cms
