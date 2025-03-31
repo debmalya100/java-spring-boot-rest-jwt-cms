@@ -10,7 +10,7 @@
 - Maven-based build system for dependency management and project structure.
 
 ## Prerequisites
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.8.1 or higher
 - Docker (optional, for containerized deployment)
 
